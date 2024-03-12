@@ -19,4 +19,7 @@ public class FakeStoreProductDto {
     private int userId;
     private String date;
     private product[] products;
+
+    public FakeStoreProductDto() {
+    }
 }
